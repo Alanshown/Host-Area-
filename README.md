@@ -1,4 +1,4 @@
-# HostArea - AI驱动的社区平台
+# HostArea - 涵盖AI管理的现代社区平台
 
 <p align="center">
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
@@ -14,7 +14,7 @@
 
 <!-- README-I18N:START -->
 
-[中文](./README.md) | English
+[中文](./README.md) | [**English**](./README_en.md)
 
 <!-- README-I18N:END -->
 
