@@ -10,7 +10,7 @@
   <img src="./preview.png" alt="HostArea 预览" width="800">
 </p>
 
-> 一个现代科技社区平台，集成 AI 助手 Alma，用于智能群聊协作与管理，基于 LLM Tool Use 架构构建。
+> 一个采用vue+php创建的现代科技社区平台，集成 AI 助手 Alma，用于智能群聊协作与管理，基于 LLM Tool Use 架构构建。
 
 <!-- README-I18N:START -->
 
