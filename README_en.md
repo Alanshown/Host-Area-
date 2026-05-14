@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src=".github/preview.png" alt="HostArea Preview" width="800">
+  <img src="./preview.png" alt="HostArea Preview" width="800">
 </p>
 
 > A modern tech community platform integrating AI assistant Alma for intelligent group chat collaboration and management, powered by LLM Tool Use architecture.
